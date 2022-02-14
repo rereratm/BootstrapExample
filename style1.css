@@ -1,0 +1,16 @@
+
+.misyon img{
+    height: 200px;
+}
+.vizyon img{
+    height: 200px;
+}
+footer{
+    background-image: url("http://161.97.148.234/images/map.png");
+}
+.List, .social-links, .footer-contact-info{
+  list-style-type:none;
+}
+a {
+    text-decoration: none !important;
+   }

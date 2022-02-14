@@ -1,0 +1,44 @@
+.card{
+    height: 200px;
+}
+.homeSlider{
+    height: 700px !important;
+}
+.homeSliderSlide{
+    height: 100% !important;
+}
+.homeSliderItems{
+    height: 100% !important;
+}
+
+.homeSliderItems img{
+    height: 100%;
+    width: 100%;
+}
+
+.card img{
+    width: 20%;
+    height: 30%;
+}
+.anasayfa{
+    background-color: slategrey;
+}
+
+.card-col{
+    width: 20% !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .card-col{
+        width: 30% !important;
+    }
+  }
+  footer{
+      background-image: url("http://161.97.148.234/images/map.png");
+  }
+  .List, .social-links, .footer-contact-info{
+    list-style-type:none;
+  }
+  a {
+    text-decoration: none !important;
+   }
